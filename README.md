@@ -47,9 +47,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <img src="./src/readme/brazil.ico">Super Mario - O Filme é um projeto desenvolvido durante a Semana do zero ao programador contratado do [Dev em dobro](https://instagram.com/devemdobro?igshid=YmMyMTA2M2Y=),onde foi criado uma página de apresentação onde é possível assistir o trailer do filme
 ## 🔖 Layout
 
-You can preview the project layout through [FROM THIS LINK]() 
+You can preview the project layout through [FROM THIS LINK](https://jacquenunes.github.io/project-supermario-themovie/) 
 
-Você pode visualizar o layout do projeto através [DESSE LINK]()
+Você pode visualizar o layout do projeto através [DESSE LINK](https://jacquenunes.github.io/project-supermario-themovie/)
 
 ## License / Licença
 
