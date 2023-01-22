@@ -9,10 +9,10 @@
 <br>
 
 <p align="center">
-  <a href="#tecnologies-tecnologias">Technologies / Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project-projeto">Poject / Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies-tecnologias">Technologies / Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project-projeto">Project / Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license-licença">License /Licença</a>
+  <a href="#-license-licença">License /Licença</a>
 </p>
 
 <p align="center">
