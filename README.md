@@ -22,7 +22,7 @@
 <br><br>
 <p>📱Responsiveness/ Responsividade</p>
 <p align="center">
-  <img alt="a turma do super mario apresentando o trailer do filme" src="./src/readme/responsividade.gif">
+  <img alt="a turma do super mario apresentando o trailer do filme" src="./src/readme/Video-responsive-mario.gif">
 </p>
 
 <br>
